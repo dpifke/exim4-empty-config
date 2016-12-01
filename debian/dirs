@@ -1,0 +1,4 @@
+etc/exim4
+var/lib/exim4
+var/spool/exim4
+var/log/exim4

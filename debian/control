@@ -1,0 +1,14 @@
+Source: exim4-empty-config
+Section: unknown
+Priority: extra
+Maintainer: Dave Pifke <dave@pifke.org>
+Standards-Version: 3.9.4
+
+Package: exim4-empty-config
+Provides: exim4-config-2
+Conflicts: exim4-config-2, exim4-config
+Architecture: all
+Depends: ${misc:Depends}
+Description: empty configuration for Exim MTA (v4)
+ This package provides exim4-config-2, allowing Exim to be installed without
+ the default Debian configuration.

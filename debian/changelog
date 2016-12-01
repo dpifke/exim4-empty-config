@@ -1,0 +1,5 @@
+exim4-empty-config (1.0) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Dave Pifke <dave@pifke.org>  Thu, 27 Oct 2016 16:37:38 +0200
